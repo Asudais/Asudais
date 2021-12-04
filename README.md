@@ -1,5 +1,8 @@
-### Hi there 👋
-
+Hi my name is muhammad thalith Asudais
+I'm currently learning c# and other computer languages.
+i'm looking foward to mingling with veterans in computer languages here in github.
+You can reach me through algairy5@gmail.com.
+thanks
 <!--
 **Asudais/Asudais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
